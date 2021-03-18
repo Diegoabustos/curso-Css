@@ -1,0 +1,43 @@
+body{
+    background-color: #ccc;
+    
+    /* background-image: url("img/pai4.jpg"); */
+    /* background-repeat: no-repeat; */
+    /* Para que no repita la imagen en caso de que sea pequena y sea un patron */
+    /* background-size: 100% 100%; */
+    /* Para que el tamano de la imagen sea 100 */
+    /* background-attachment: fixed; */
+    /* Para que hagas scroll y el fondo no te acompane */
+    /* background-position: right bottom; */
+    color: black;
+    text-align: justify;
+    text-indent: 10px;
+    /* Identifica cada parrafo le d un formato  */
+    /* word-spacing: 5px; */
+    /* Separa por letras */
+    /* letter-spacing: 5px; */
+    /* Speara por letra */
+
+}
+
+#caja{
+    border: 5px solid black;
+    padding: 10px;
+    background-color: red;
+    color: white;
+    font-family: "opens Sans";
+    /* Tipografia d ela letra */
+    text-align: center;
+    /* alineacion de la letra */
+    line-height: 50px;
+    /* Altura de la linea */
+    text-transform: uppercase;
+    /* Transformar a mayusculas */
+
+}
+
+h2{
+    background-color: white;
+    color: red;
+    border: 5px solid red;
+}
